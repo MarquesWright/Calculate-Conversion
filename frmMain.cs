@@ -17,7 +17,8 @@ namespace Calculate_Conversions
             InitializeComponent();
             toolStrip1.Hide();
         }
-
+        
+        //loads a new conversion form into the parent form
         private void frmMain_Load(object sender, EventArgs e)
         {
 
