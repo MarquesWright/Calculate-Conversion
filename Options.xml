@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Conversions>
+     <Conversion>
+          <From>Miles</From>
+          <To>Kilometers</To>
+          <ConNum>1.6093</ConNum>
+     </Conversion>
+     <Conversion>
+          <From>Kilometers</From>
+          <To>Miles</To>
+          <ConNum>0.6214</ConNum>
+     </Conversion>
+     <Conversion>
+          <From>Feet</From>
+          <To>Meters</To>
+          <ConNum>0.3048</ConNum>
+     </Conversion>
+     <Conversion>
+          <From>Meters</From>
+          <To>Feet</To>
+          <ConNum>3.2808</ConNum>
+     </Conversion>
+     <Conversion>
+          <From>Inches</From>
+          <To>Centimeters</To>
+          <ConNum>2.54</ConNum>
+     </Conversion>
+     <Conversion>
+          <From>Centimeters</From>
+          <To>Inches</To>
+          <ConNum>0.3937</ConNum>
+     </Conversion>
+</Conversions>
