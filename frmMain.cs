@@ -40,7 +40,7 @@ namespace Calculate_Conversions
                 activeForm.Close();
         }
 
-        //
+        //arranges the conversion forms in a cascading view
         private void mnuCascade_Click(object sender, EventArgs e)
         {
             this.LayoutMdi(MdiLayout.Cascade);
